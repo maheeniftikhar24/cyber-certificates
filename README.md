@@ -3,6 +3,5 @@ A collection of my cybersecurity certificates, badges, and achievements demonstr
 
 ## TryHackMe Advent of Cyber 2025 Certificate
 
-![AoC Certificate](THM-AOC'25 CERT_page-0001.jpg)
-
+![AoC Certificate] (THM-AOC25-CERT_page-0001.jpg)
 
